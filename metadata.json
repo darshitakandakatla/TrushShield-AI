@@ -1,0 +1,6 @@
+{
+  "name": "TrustShield AI — Your Digital Safety Guardian",
+  "description": "Digital Risk Protection platform for investigating potential social media impersonation, look-alike brand accounts, and suspicious mobile applications with deterministic similarity analysis and explainable risk scoring.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
